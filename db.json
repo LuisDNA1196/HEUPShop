@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "name": "Playera Flash",
+      "category": "Playeras",
+      "url": "https://www.gamerpoint.com.mx/cdn/shop/products/Playera-Dc-Comics-The-Flash-Logo-M.webp?v=1664991986&width=800",
+      "price": "123",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Its dangerous to go alone",
+      "category": "Playeras",
+      "price": "1499",
+      "url": "https://www.gamerpoint.com.mx/cdn/shop/products/Playera-It-s-Dangerous-to-Fight-Alone-M-Negro.webp?v=1675181251&width=2048",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "name": "Playera Triforce",
+      "category": "Playeras",
+      "url": "https://prentunimpresos.com.mx/wp-content/uploads/2021/07/V2-36.png",
+      "price": "15499",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Zelda NES",
+      "category": "Playeras",
+      "price": "15499",
+      "url": "https://doshik.com/888-large_default/playera-link-sereno.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "5",
+      "name": "Mario Odyssey",
+      "category": "Juegos",
+      "price": "15499",
+      "url": "https://m.media-amazon.com/images/I/81sS-oqpkLS.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "6",
+      "name": "Luigi’s Mansion™ 3",
+      "category": "Juegos",
+      "price": "15499",
+      "url": "https://m.media-amazon.com/images/I/7129nswGWdS._AC_UF1000,1000_QL80_.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "7",
+      "name": "Donkey Kong",
+      "category": "Juegos",
+      "price": "15499",
+      "url": "https://www.nintendo.com/sg/switch/afwt/img/hero_sp.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "name": "zelda",
+      "category": "Diversos",
+      "url": "https://www.zeldadungeon.net/wiki/images/thumb/4/46/Zelda_-_TotK_key_art.png/400px-Zelda_-_TotK_key_art.png",
+      "price": "69",
+      "description": "zelda",
+      "id": "m72fM1Y"
+    },
+    {
+      "name": "Taza Game Over",
+      "category": "Tazas",
+      "url": "https://www.kathari.com.mx/wp-content/uploads/D.png",
+      "price": 6666,
+      "description": "Lorem ipsum",
+      "id": "DLz0CMV"
+    },
+    {
+      "name": "Taza Game boy",
+      "category": "Tazas",
+      "url": "https://fotocolorfacil.com/wp-content/uploads/2016/05/MK4TAZAWEB.png",
+      "price": 666666,
+      "description": "Lorem",
+      "id": "vaGSuY6"
+    },
+    {
+      "name": "Taza Trifuerza",
+      "category": "Tazas",
+      "url": "https://prentunimpresos.com.mx/wp-content/uploads/2021/07/Taza1-23.png",
+      "price": 68435,
+      "description": "Lorem",
+      "id": "CRmOAu3"
+    },
+    {
+      "name": "Taza",
+      "category": "Tazas",
+      "url": "https://category-public.canva.com/contextualThumbnails/mug@2x.png",
+      "price": 7464,
+      "description": "Taza",
+      "id": "Sbnjxno"
+    },
+    {
+      "name": "Super Mario RPG",
+      "category": "Juegos",
+      "url": "https://media.gameplaystores.es/110510-large_default/super-mario-rpg-cartucho-ntsc-u-snes.jpg",
+      "price": 9999999,
+      "description": "Lorem",
+      "id": "RGUHAnA"
+    },
+    {
+      "name": "Link amiibo",
+      "category": "Diversos",
+      "url": "https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/others_2/amiibo_5/CI_Amiibo_TheLegendOfZeldaTearsOfTheKingdom_Link_image510h.png",
+      "price": 46754456,
+      "description": "Lorem",
+      "id": "sQHd1Oh"
+    },
+    {
+      "name": "Canela Miibo",
+      "category": "Diversos",
+      "url": "https://amiibo.life/assets/figures/amiibo-sized/animal-crossing/isabelle-winter-outfit-cf05f8657d5f931e870ceb50fea6116e4bf0b64665cfc0628b5a4cbdc3d35ecd.png",
+      "price": 8787,
+      "description": "Lorem",
+      "id": "iR6FusM"
+    },
+    {
+      "name": "Link MM amiibo",
+      "category": "Diversos",
+      "url": "https://cdn11.bigcommerce.com/s-kzjsut/images/stencil/1280x1280/products/2405/11720/TLoZ_Series_Link_amiibo__37970.1639172020.png?c=2",
+      "price": "542365",
+      "description": "Lorem",
+      "id": "TvVNQc5"
+    },
+    {
+      "name": "Switch OLED",
+      "category": "Consolas",
+      "url": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_2.0/c_scale,w_500/ncom/en_US/switch/site-design-update/hand-dock-photo",
+      "price": 698745,
+      "description": "lorem",
+      "id": "dJDznVm"
+    },
+    {
+      "name": "Xbox series X",
+      "category": "Consolas",
+      "url": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mRni?ver=a707&",
+      "price": 6666666,
+      "description": "lorenm",
+      "id": "750FjUh"
+    },
+    {
+      "name": "NES consola",
+      "category": "Consolas",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/1200px-NES-Console-Set.png",
+      "price": 87512,
+      "description": "Lorem",
+      "id": "9OQFGNb"
+    },
+    {
+      "name": "Atari 2600",
+      "category": "Consolas",
+      "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/11/19/16373380466605.png",
+      "price": 565656,
+      "description": "Lorem",
+      "id": "jY8CZnl"
+    },
+    {
+      "name": "MarioRPG",
+      "category": "Playeras",
+      "url": "https://images.squarespace-cdn.com/content/v1/622c0192a2f5926affc29f46/1668903380380-NV0CYFU3QCJJ6QE2AUEG/Mario+RPG+White+Mock+Up.jpg",
+      "price": 51253,
+      "description": "Mario",
+      "id": "UjBouE2"
+    }
+  ]
+}

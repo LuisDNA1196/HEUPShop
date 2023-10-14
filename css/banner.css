@@ -1,0 +1,46 @@
+.main-banner-container{
+    display: flex;
+    align-items: center;
+    background-image: url('../img/segabanner.jpg');
+    background-position: 100% 70%;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100vw;
+    margin-left: 0;
+}
+
+
+.banner-container{
+        color: #eeeeee;
+        text-decoration: none;
+        margin-left: 2rem;
+        text-shadow: 2px 2px 4px rgb(69, 95, 103);
+}
+
+.title-banner{
+        font-size: 3.5rem;
+        font-weight: 700;
+}
+
+.prod-desc{
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+        font-weight: 500;
+}
+
+.banner-verproductos{
+        padding: 0.8rem;
+        font-size: 1rem;
+        background-color: #eeeeee;
+        color: black;
+        border-radius: 8px;
+        text-decoration: none;
+        text-shadow: none;
+        transition: ease-in 0.2s;
+
+}
+
+.banner-verproductos:hover{
+        filter: invert();
+}

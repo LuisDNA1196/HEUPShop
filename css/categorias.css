@@ -1,0 +1,92 @@
+.main-productos-container{
+        margin-bottom: 3rem;
+}
+
+.category-title-container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: .3rem ;
+        border-bottom: 2px solid #00000063;
+}
+
+.category-title{
+        font-weight: 600;
+        font-size: 3rem;
+        color: #0c4e35; 
+}
+
+.ver-mas{
+        text-decoration: none;
+        color: var(--color-blue);
+        transition: .2s;  
+        font-size: 1.4rem; 
+        font-weight: 600;
+
+}
+.ver-mas:hover{
+        color: #4ab990;
+        transform: scale(1.1);
+}
+.category-carrusel{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        gap: 1.5rem;
+        padding: 1rem;
+        
+}
+.category-carrusel a{
+        text-decoration: none;
+}
+.product{
+        padding-top: 1rem;
+        background-color: #eeeeeec4; /* #fbfbff; */
+        border-radius: 1rem;
+        transition: 0.2s;
+}
+.product:hover{
+        box-shadow: 0 0 10px #00000080;
+        transform: translateY(-4px);
+}
+.producto-img{
+        width: var(--size-img-width);
+        height: var(--size-img-height); /* 195.19px; 174px*/
+        object-fit: contain;
+}
+
+
+.category-text-container{
+        padding: 1rem;
+    }
+    
+    .category-product-name{
+        font-size: 1.4rem;
+        font-weight: 500;
+        border: none;
+        color: #0e5c3f;
+    }
+    
+    .category-price{
+        font-size: 1.1rem;
+        color: var(--color-blue);
+    }
+    
+    .category-detail-link{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: .5rem;
+        padding: .7rem 0;
+        background-color: var(--color-blue);
+        color: var(--color-white);
+        border-radius: .5rem;
+        width: 100%;
+        text-align: center;
+        font-size: 1.1rem;
+        cursor: pointer;
+    }
+    
+    .category-detail-link:hover{
+        background-color: #4ab990;
+    }

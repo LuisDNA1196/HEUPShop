@@ -1,0 +1,67 @@
+.nav-container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem;
+        box-shadow: 0 2px #00000031; 
+        border-bottom: #0e5c3f;
+}
+
+.nav-logo-img{
+        width: 5rem;
+        transition: ease-in-out .8s;
+}
+.nav-logo-img:hover{
+        transform: scale(1.1);
+}
+
+
+.search-input{
+        text-align: center;
+        color: #0e5c3f;
+        padding-right: 30px; /* Ajusta el espacio a la derecha del campo de entrada para el icono */
+        width: 100%;
+        height: 40px; /* Ajusta la altura según tus preferencias */
+        border: 1px solid #0e5c3f; /* Estilo de borde del campo de entrada */
+        border-radius: 1rem;
+        box-shadow: 0 0 3px #00000060;
+        width: 250px;
+        background-color: transparent;
+}
+.search-input::placeholder{
+        color:#0e5c3f ;
+}
+.search-icon {
+        position: absolute;
+        right: 10px; /* Ajusta la posición del icono a tu preferencia */
+        top: 50%;
+        transform: translateY(-50%);
+        cursor: pointer;
+        color: #0e5c3f; /* Cambia el color del icono a tu preferencia */
+    }
+    .search-input-container {
+        position: relative;
+    }
+
+.login-box{
+        padding: 1rem;
+        padding-right: 0.5rem;
+        background-color: #eeeeee;
+        border-radius: 8px;
+        border: none;
+        transition: ease-in 0.2s;
+        cursor: pointer;
+}
+.login-box:hover{
+        filter: invert();
+}
+
+.login-button{
+        text-decoration: none;
+        margin-right: 0.5rem;
+        color: rgb(0, 0, 0);
+}
+
+.fa-user{
+        padding-left: 0.5rem;
+}
